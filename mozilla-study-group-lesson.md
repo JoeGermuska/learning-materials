@@ -22,7 +22,7 @@ Ready to get our perspective on the topic? Want to find out what Open Knowledge 
 
 Now it’s time to get your hands dirty and try the tool yourselves.
 Get together in groups of three – each group should have at least one laptop between them (at this moment, the desktop version works best).
-Try to solve one of the following tasks using both Open Knowledge Maps (http://openknowledgemaps.com) and your favourite discovery tool:
+Try to solve one of the following tasks using both Open Knowledge Maps (http://openknowledgemaps.org) and your favourite discovery tool:
 * Get an overview on the research on the internet of things. What were the topics discussed in 2015? How did that change in 2016?
 * Get an overview of research topics on men and on women. What are the differences? Are the topics different between the two sources (PubMed and DOAJ)?
 
